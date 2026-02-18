@@ -51,12 +51,6 @@ The full project report includes:
 - **Parameter optimization process**  
 - **Performance evaluation** with conclusions  
 
----
-## 👥 Contributors 
-- Taleen Bayatneh (1211305)
--  Miassar Joher (1210519)  
-
----
 
 
 
